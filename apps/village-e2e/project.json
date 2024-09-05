@@ -1,0 +1,9 @@
+{
+  "name": "village-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/village-e2e/src",
+  "implicitDependencies": ["village"],
+  "// targets": "to see all targets run: nx show project village-e2e --web",
+  "targets": {}
+}
